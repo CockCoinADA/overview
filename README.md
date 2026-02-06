@@ -82,7 +82,13 @@ Memeshub.io serves as a platform related to the broader Cardano meme ecosystem:
 
 Hosts utility data on meme tokens and trackers.
 
-COCK is part of a broader meme ecosystem context with other tokens listed.
+Memeshub is powered by COCK
+
+SNEK partnership
+$SNEK partnership with Snek Energy Drinks @SNEK_ENERGY and CockyWings - another revenue stream
+
+WMTx Nodes
+World Mobile Token Nodes partnership and revenue stream
 
 What Makes COCK Unique
 
