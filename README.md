@@ -118,6 +118,7 @@ Active on social platforms (X/Twitter) under the handle @CockCoin_ADA.
 
 Community engagement (discord, quests, rewards) strengthens holder interaction.
 
+The COCK Arena is where the real action happens. More than just staking, it’s a PvP DeFi protocol where players lock their $COCK and compete for rewards. The longer you stay in the Arena, the more you earn—while others who exit early pay the price.‍
 
 Data Sources & References
 
