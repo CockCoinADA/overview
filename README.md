@@ -112,7 +112,7 @@ Borrowing against locked positions without selling.
 
 Supporting ecosystem growth via real-world revenue models (e.g., Cocky Wings buybacks).
 
-Market & Distribution (April–Feb 2025)
+Market & Distribution 
 
 The token has been listed on centralized and decentralized exchanges (e.g., MEXC Global, WEEX).
 
@@ -123,6 +123,12 @@ Community Signals
 Active on social platforms (X/Twitter) under the handle @CockCoin_ADA.
 
 Community engagement (discord, quests, rewards) strengthens holder interaction.
+
+6816 discord members
+
+10500 X members
+
+Biggest Cardano Native Token Community on Cryptotwits with more than 1600 follower
 
 The COCK Arena is where the real action happens. More than just staking, it’s a PvP DeFi protocol where players lock their $COCK and compete for rewards. The longer you stay in the Arena, the more you earn—while others who exit early pay the price.‍
 
