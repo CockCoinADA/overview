@@ -139,3 +139,5 @@ Official Web: https://cockcardano.io
 Cocky Wings Project: https://cockywings.com
 
 Memeshub Token Tracking: https://memeshub.io
+
+TapTools: https://www.taptools.io/charts/token/cockcoinada
